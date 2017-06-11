@@ -1,0 +1,16 @@
+* {
+  font-family: Verdana;
+  background-color: black;
+  text-align: center;
+  align-items: center;
+}
+
+.header {
+  color: white;
+  font-size: 50px;
+  font-weight: normal;
+}
+
+.link{
+  color: aquamarine;
+}
